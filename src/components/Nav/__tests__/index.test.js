@@ -6,7 +6,7 @@ import Nav from "..";
 // add cleanup statement
 afterEach(cleanup);
 
-describe("Nav component", () => {
+describe("Nav component renders", () => {
   it("renders", () => {
     render(<Nav />);
   });

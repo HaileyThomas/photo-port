@@ -16,99 +16,20 @@ exports[`matches snapshot 1`] = `
         class="flex-row"
       >
         <img
-          alt="Grocery aisle"
-          class="img-thumbnail mx-1"
-          src="20"
-        />
-        <img
-          alt="Grocery booth"
-          class="img-thumbnail mx-1"
-          src="21"
-        />
-        <img
-          alt="Building exterior"
-          class="img-thumbnail mx-1"
-          src="22"
-        />
-        <img
-          alt="Restaurant table"
-          class="img-thumbnail mx-1"
-          src="23"
-        />
-        <img
-          alt="Cafe interior"
-          class="img-thumbnail mx-1"
-          src="24"
-        />
-        <img
           alt="Cat green eyes"
           class="img-thumbnail mx-1"
-          src="25"
         />
         <img
           alt="Green parrot"
           class="img-thumbnail mx-1"
-          src="26"
         />
         <img
           alt="Yellow macaw"
           class="img-thumbnail mx-1"
-          src="27"
         />
         <img
           alt="Pug smile"
           class="img-thumbnail mx-1"
-          src="28"
-        />
-        <img
-          alt="Pancakes"
-          class="img-thumbnail mx-1"
-          src="29"
-        />
-        <img
-          alt="Burrito"
-          class="img-thumbnail mx-1"
-          src="30"
-        />
-        <img
-          alt="Scallop pasta"
-          class="img-thumbnail mx-1"
-          src="31"
-        />
-        <img
-          alt="Burger"
-          class="img-thumbnail mx-1"
-          src="32"
-        />
-        <img
-          alt="Fruit bowl"
-          class="img-thumbnail mx-1"
-          src="33"
-        />
-        <img
-          alt="Green river"
-          class="img-thumbnail mx-1"
-          src="34"
-        />
-        <img
-          alt="Docks"
-          class="img-thumbnail mx-1"
-          src="35"
-        />
-        <img
-          alt="Panoramic village by sea"
-          class="img-thumbnail mx-1"
-          src="36"
-        />
-        <img
-          alt="Domestic landscape"
-          class="img-thumbnail mx-1"
-          src="37"
-        />
-        <img
-          alt="Park Bench"
-          class="img-thumbnail mx-1"
-          src="38"
         />
       </div>
     </div>
