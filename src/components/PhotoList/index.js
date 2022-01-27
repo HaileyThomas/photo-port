@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import Modal from '../Modal';
 
 const PhotoList = ({ category }) => {
   const [photos] = useState([
@@ -112,7 +111,7 @@ const PhotoList = ({ category }) => {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
     },
     {
-      name: "Park Bench",
+      name: "Park bench",
       category: "landscape",
       description:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricie",
@@ -124,10 +123,9 @@ const PhotoList = ({ category }) => {
   return (
     <div>
       <div className="flex-row">
-        {photos.map((image, i) => (
+        {currentPhotos.map((image, i) => (
           <img
-            src={
-              requestAnimationFrame(`../../assets/small/${category}/${i}.jpg`)}
+            src={require(`../../assets/small/${category}/${i}.jpg`).default}
             alt={image.name}
             className="img-thumbnail mx-1"
             key={image.name}
@@ -136,6 +134,6 @@ const PhotoList = ({ category }) => {
       </div>
     </div>
   );
-}
+};
 
 export default PhotoList;
